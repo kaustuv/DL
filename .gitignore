@@ -1,0 +1,18 @@
+#
+DS_Store
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+env
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IPython Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
